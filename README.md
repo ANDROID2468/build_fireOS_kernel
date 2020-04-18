@@ -5,6 +5,7 @@ This is using  [ggrow's kernel source](https://github.com/ggow/android_kernel_am
 
 ```
 git clone https://github.com/ANDROID2468/build_fireOS_kernel.git -b mt8127
+
 cd build_fireOS_kernel
 ```
 
